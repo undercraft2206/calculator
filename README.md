@@ -4,3 +4,10 @@ for execute it:
 cd calculator
 ./calculator"
 
+or
+
+"git clone 
+cd calculator
+gcc calculator.c -o calculator
+./calculator"
+
