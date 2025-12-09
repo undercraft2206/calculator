@@ -1,4 +1,4 @@
-# calculator
+# calculator (why my readmy look so bad XD)
 for execute it:
 "git clone https://github.com/undercraft2206/calculator.git
 cd calculator
