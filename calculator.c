@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
  {
-int val01, val02, dividend, end;
+int val01, val02, operator, end;
 
 		printf("calculator 2000\n");
 
@@ -12,21 +12,21 @@ int val01, val02, dividend, end;
 		scanf("%d", &val02);
 
 		printf("dividend (+:1 -:2 /:3):\n ");
-		scanf("%d", &dividend);
+		scanf("%d", &operator);
 
-if(dividend == 1) 
+if(operator == 1) 
 {
 	end = val01+val02;
 	printf("\nthe result is %d\n", end);
 }		
 
-if(dividend == 2)
+if(operator == 2)
 {
 	end = val01-val02;
 	printf("\nthe result is %d\n", end);
 } 
 
-if(dividend == 3)
+if(operator == 3)
 {
 	end = val01/val02;
 	printf("\nthe result is: %d\n", end);
