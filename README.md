@@ -1,4 +1,7 @@
 # calculator
+
+A simple calculatore in c
+
 for execute it:
 
 (if the file is already comiled)
