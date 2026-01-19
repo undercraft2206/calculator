@@ -46,4 +46,4 @@ Contributions are welcome! If you'd like to add features, fix bugs, or improve t
 ## 💖 Thanks Message
 Made with ❤️ by undercraft2206
 
-Readme with https://readmestudio.zenui.net/editor
+Readme made with https://readmestudio.zenui.net/editor
